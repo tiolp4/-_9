@@ -25,9 +25,3 @@ git remote add origin https://github.com/<username>/<repo>.git
 git remote -v
 git push -u origin main
 ```
-
-## Рекомендуемое имя репозитория
-
-`ФамилияИмяСтудента_номерВарианта`
-
-Пример: `ИвановИван_7`.
